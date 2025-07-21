@@ -1,4 +1,4 @@
-# 💫 Trishita Nalla  
+# 💫 Thrishitha Nalla  
 **Computer Science Student | Web Developer | AI Enthusiast**
 
 ---
