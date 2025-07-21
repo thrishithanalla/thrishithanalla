@@ -1,7 +1,6 @@
 # 💫 Thrishitha Nalla  
 **Computer Science Student | Web Developer | AI Enthusiast**  
 📄 [View My Resume](https://drive.google.com/file/d/1-lHATppn9DKopoD_4lPaYxLg4DcraFms/view?usp=sharing) 
-📄 [View My LinkedIn](https://www.linkedin.com/in/thrishithanalla/)
 
 ---
 
