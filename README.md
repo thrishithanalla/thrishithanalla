@@ -9,7 +9,7 @@ Passionate about technology and innovation, I’m constantly looking for opportu
 - 💻 **Currently working on:** Data Structures & Algorithms, Generative AI  
 - 🌱 **Currently learning:** Advanced DSA, MongoDB, GenAI tools & frameworks  
 - 🔭 **Looking to collaborate on:** GenAI, full-stack development, and open-source projects  
-- 📄 **[My Resume](https://drive.google.com/file/d/1-lHATppn9DKopoD_4lPaYxLg4DcraFms/view?usp=sharing)**  ← _(replace with your actual link)_
+- 📄 **[My Resume](https://drive.google.com/file/d/1-lHATppn9DKopoD_4lPaYxLg4DcraFms/view?usp=sharing)**  
 
 ---
 
