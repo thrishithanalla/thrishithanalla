@@ -74,10 +74,11 @@ Passionate about technology and innovation, I’m constantly looking for opportu
 
 ## 💼 Experience:
 
-### 🧑‍🏫 NIT Andhra Pradesh — **AI Tutor**
-- Guided students in working with LLMs and FastAPI
-- Built RAG-based solutions with vector databases and React.js
-- Mentored on AI project architecture and development workflows
+### 🧑‍🏫 NIT Andhra Pradesh — **Product Development Internship - AI Tutor**
+-  Worked with LLMs , RAG , FastAPI , VectorDB , ReactJs
+-  Integrated various components and the teamwork together
+-  Used Meramid.js and Markup.js for mind map visualisation
+-  Used STT and TTS models
 
 ---
 
